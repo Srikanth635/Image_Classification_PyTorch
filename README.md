@@ -23,18 +23,18 @@ To install PyTorch, see installation instructions on the [PyTorch website](https
 
 
 
-* 1 - [Multilayer Perceptron](./pytorch-image-classification/blob/master/1_mlp.ipynb) [Open In Colab](./1_mlp.ipynb)
+* 1 - Multilayer Perceptron [Open In Colab](./1_mlp.ipynb)
 
 
-* 2 - [LeNet](./pytorch-image-classification/blob/master/2_lenet.ipynb) [Open In Colab](./2_lenet.ipynb)
+* 2 - LeNet [Open In Colab](./2_lenet.ipynb)
 
 
-* 3 - [AlexNet](./pytorch-image-classification/blob/master/3_alexnet.ipynb) [Open In Colab](./3_alexnet.ipynb)
+* 3 - AlexNet [Open In Colab](./3_alexnet.ipynb)
 
 
-* 4 - [VGG](./pytorch-image-classification/blob/master/4_vgg.ipynb) [Open In Colab](./4_vgg.ipynb)
+* 4 - VGG [Open In Colab](./4_vgg.ipynb)
 
 
-* 5 - [ResNet](./pytorch-image-classification/blob/master/5_resnet.ipynb) [Open In Colab](./5_resnet.ipynb)
+* 5 - ResNet [Open In Colab](./5_resnet.ipynb)
 
 
