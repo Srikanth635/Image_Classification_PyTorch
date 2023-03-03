@@ -10,8 +10,8 @@ with Python 3.8.
 
 The following architectures are implemneted from scratch
 
-(MLP) 
-[LeNet](http://yann.lecun.com/exdb/lenet/), 
+(MLP),
+LeNet, 
 [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), 
 [VGG](https://arxiv.org/abs/1409.1556),
 [ResNet](https://arxiv.org/abs/1512.03385).
